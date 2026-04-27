@@ -1,4 +1,4 @@
-How to add subtitle (with .srt files) in <your-folders>:
+How to add subtitle (with .srt files) in "folder_path":
 
 Build image:
 ```
